@@ -1,4 +1,4 @@
 # Warboel
-chaos in human form, mutualist
-pronouns: she/her
-learning python
+- chaos in human form, mutualist
+- pronouns: she/her
+- learning python
